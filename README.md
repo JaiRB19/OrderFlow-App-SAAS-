@@ -68,7 +68,7 @@ OrderFlow utilizes a custom-built design system based on **Glassmorphism**.
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone [https://github.com/JaiRB19/OrderFlow-App-SAAS-.git](https://github.com/JaiRB19/OrderFlow-App-SAAS-.git)
    ```
 2. Install dependencies:
    ```bash
